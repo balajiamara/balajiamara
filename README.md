@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajiamara&layout=compact&theme=tokyonight&hide_border=true)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balajiamara&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B,%20Y%5D&card_width=600)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balajiamara&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B,%20Y%5D&card_width=800)
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=balajiamara&theme=tokyonight&no-frame=true&margin-w=10)  
